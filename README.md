@@ -9,3 +9,5 @@ The project includes the following:
 - task.pdf - which explains the aim of the project and describes the overall algorithm
 - stop-words_english from 1 to 6.txt - a set of stop words, which are common in Natural Language Processing (NLP) applications
 - Jaccard_and_Cosine_Similarities.ipynb - a project itself, done in Jupyter Notebook
+
+The project extracts abstracts of the papers via online, so the project also includes web-scrapping as well. 
